@@ -1,0 +1,15 @@
+{
+  "name": "aulas",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "lecture-0": "slidev lecture-0.md"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.2",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "*"
+  }
+}
