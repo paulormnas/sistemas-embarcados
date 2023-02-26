@@ -43,3 +43,9 @@ src: lectures/lecture-0/page-5.md
 ---
 src: lectures/lecture-0/page-6.md
 ---
+
+# Página 7
+
+---
+src: lectures/lecture-0/page-7.md
+---

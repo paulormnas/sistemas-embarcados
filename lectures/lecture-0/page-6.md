@@ -1,16 +1,19 @@
 ---
-layout: image-left
-image: https://images.unsplash.com/photo-1602992708529-c9fdb12905c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MDk4NDh8MHwxfGFsbHx8fHx8fHx8fDE2NzYyOTg5OTM&ixlib=rb-4.0.3&q=80&w=1080
 transition: slide-up
 ---
 
-# Plano de Ensino
+# Ecossistema de desenvolvimento para Smartphones
 
+<div>
+Atualmente existem dois principais sistemas operacionais para smartphones, iOS (Apple) e Android (Google). Contudo, todo o ambiente de desenvolvimento, a linguagem de programação e as plataformas para lançamento de aplicativos são completamente difetentes um do outro. Até um tempo atrás as empresas precisavam desenvolver o mesmo aplicativo mas com bases de código diferentes para serem suportados em ambos sistemas.
 
-- Linguagem de Programação Dart
-- Programação Orientada a Objeto (POO)
-- Git
-- Desenvolvimento de apps com Android Studio
-- Introdução ao Flutter
-- Widgets Flutter
-- Teste de software
+Nos últimos anos foram desenvolvidos frameworks e bibliotecas, para ajudar a resolver este problema, permitido que apenas 1 aplicativo seja desenvolvido e em seguida compilado para a plataforma desejada. Estes frameworks e bibliotecas também  são conhecidos como soluções cross-plataforma.
+</div>
+
+| Framework| Empresa Desenvolvedora | Linguagens |
+| --- | --- | --- |
+| Xamarim | Microsoft | C# e .NET |
+| React Native | Meta | Javascript/Typescript e node.js |
+| Flutter | Google | Dart |
+
+Nesta disciplina daremos foco no framework Flutter

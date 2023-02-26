@@ -4,9 +4,10 @@ image: https://images.unsplash.com/photo-1609921141835-710b7fa6e438?crop=entropy
 transition: slide-up
 ---
 
-# E os Smartphones?
+# E os smartphones?
 
-
-Os smartphones também podem ser considerados dispositivos embarcados e de IoT quando consideramos que pdoemos desenvolver e instalar aplicativos, dando ao dispositivo novas funcionalidades, para resolver algum problema específico. 
+<div class="text-justify">
+Os smartphones também podem ser considerados dispositivos embarcados e de IoT se considerarmos que podemos desenvolver e instalar aplicativos, dando ao dispositivo novas funcionalidades para resolver algum problema específico.
 
 Nesta disciplina vamos focar no desenvolvimento para este tipo de dispositivo, tendo em vista que praticamente todos os alunos possuem um smartphone e poderão testar as aplicações em seus próprios dispositivos.
+</div>

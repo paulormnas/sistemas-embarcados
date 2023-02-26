@@ -5,7 +5,8 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "lecture-0": "slidev lecture-0.md"
+    "lecture-0": "slidev lecture-0.md",
+    "lecture-1": "slidev lecture-1.md"
   },
   "dependencies": {
     "@slidev/cli": "^0.40.2",
