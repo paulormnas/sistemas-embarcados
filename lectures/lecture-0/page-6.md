@@ -10,7 +10,7 @@ Atualmente existem dois principais sistemas operacionais para smartphones, iOS (
 Nos últimos anos foram desenvolvidos frameworks e bibliotecas, para ajudar a resolver este problema, permitido que apenas 1 aplicativo seja desenvolvido e em seguida compilado para a plataforma desejada. Estes frameworks e bibliotecas também  são conhecidos como soluções cross-plataforma.
 </div>
 
-| Framework| Empresa Desenvolvedora | Linguagens |
+| Framework | Empresa Desenvolvedora | Linguagens |
 | --- | --- | --- |
 | Xamarim | Microsoft | C# e .NET |
 | React Native | Meta | Javascript/Typescript e node.js |

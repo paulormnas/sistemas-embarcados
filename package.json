@@ -5,6 +5,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
+    "export-with-toc": "slidev export --with-toc",
     "lecture-0": "slidev lecture-0.md",
     "lecture-1": "slidev lecture-1.md"
   },
@@ -12,5 +13,8 @@
     "@slidev/cli": "^0.40.2",
     "@slidev/theme-default": "^0.21.2",
     "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.31.1"
   }
 }
