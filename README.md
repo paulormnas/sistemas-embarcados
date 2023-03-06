@@ -1,4 +1,4 @@
-# Bem vindo ao repositório das aulas de Sistemas Embarcados!
+# Bem vindo ao repositório das aulas de Programação de Sistemas Embarcados!
 
 Os slides foram desenvolvidos utiliznado o [Slidev](https://github.com/slidevjs/slidev)!
 
@@ -13,7 +13,7 @@ npm run dev
 
 Acesse http://localhost:3030
 
-A apresentação será um exemplo do Slidev. Para acessar o conteúdo da disciplina execute `npm ru lecture-#ID`, onde `#ID` é o número da aula que deseja visualizar. Por exemplo:
+A apresentação será um exemplo do Slidev. Para acessar o conteúdo da disciplina execute `npm run lecture-#ID`, onde `#ID` é o número da aula que deseja visualizar. Por exemplo:
 
 ```bash
 npm run lecture-1
