@@ -51,7 +51,7 @@ void main() {
 
 ```
 
-**Importante**: para executar os testes no Android Studiol é importante adicionar o pacote de testes nas dependencias do projeto, dentro do arquivo `pubspec.yaml`.
+**Importante**: para executar os testes no Android Studio é importante adicionar o pacote de testes nas dependencias do projeto, dentro do arquivo `pubspec.yaml`.
 
 ```yaml
 dev_dependencies:
