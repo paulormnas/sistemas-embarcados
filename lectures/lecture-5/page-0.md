@@ -8,7 +8,7 @@ transition: slide-up
 
 <div> 
 
-O controle de versão é um sistemas que grava alterações em um arquivo, ou conjunto de arquivos, ao longo do tempo para que seja possível recuperar uma versão específica no futuro. Ou seja, é uma sistema que ajuda na maneira como controlamos a adição de funcionalidades, correções de bugs e mudanças que alteram o comportamento do software e a conexão com outros sistemas. Existem diferentes ferramentas para controle de software, tais como `GIT`, `CVS`, `Subversion`, `Mercurial` e etc. Nesta disciplina vamos trabalhar com o `GIT`.
+O controle de versão é um sistema que grava alterações em um arquivo, ou conjunto de arquivos, ao longo do tempo para que seja possível recuperar uma versão específica no futuro. Ou seja, é uma sistema que ajuda na maneira como controlamos a adição de funcionalidades, correções de bugs e mudanças que alteram o comportamento do software e a conexão com outros sistemas. Existem diferentes ferramentas para controle de software, tais como `GIT`, `CVS`, `Subversion`, `Mercurial` e etc. Nesta disciplina vamos trabalhar com o `GIT`.
 
 </div>
 
