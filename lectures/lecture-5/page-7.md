@@ -7,12 +7,6 @@ transition: slide-up
 
 <div>
 
-Uma Branch (Ramificação) nada mais é que abrir um novo fluxo de trabalho para continuar o desenvolvimento sem bagunçar o código que se encontra funcional no momento.
-
-</div>
-
-<div>
-
 ```shell
 $ git init # inicia um novo repositório local
 $ git status # verifica as modificações do repositório local
